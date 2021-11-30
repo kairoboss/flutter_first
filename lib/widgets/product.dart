@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class UserProfile extends StatelessWidget {
-  const UserProfile();
+class Product extends StatelessWidget {
+  const Product();
 
   Widget build(BuildContext context) {
     return Scaffold(
